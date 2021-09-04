@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+.navbar{
+   /* display: flex;*/
+    margin-top: -20px;    
+    height: 30px;
+    background-color:darkslategray;
+    
+    list-style-type: none;
+    text-decoration: none;
+}
+.navbar-list{
+    list-style-type: none;
+    display: flex ; 
+    justify-content: space-around; 
+    justify-items: center;
+    font-size: 14pt;   
+}
+a{
+    color: white;
+    
+    text-decoration: none;
+}
