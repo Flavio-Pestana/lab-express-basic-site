@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Flavio-Pestana/lab-express-basic-site#readme",
   "dependencies": {
+    "bootstrap": "^5.1.0",
     "express": "^4.17.1"
   }
 }
